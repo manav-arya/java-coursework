@@ -7,5 +7,17 @@ public class SBuilder {
         //setCharAt
         sb.setCharAt(4, 'n');
         System.out.println(sb);
+
+        //insert
+        sb.insert(5, 'A');
+        System.out.println(sb);
+
+        //delete
+        sb.delete(5, 6);
+        System.out.println(sb);
+
+        //append
+        sb.append(" Arya");
+        System.out.println(sb);
     }
 }
