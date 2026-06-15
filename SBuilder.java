@@ -5,7 +5,7 @@ public class SBuilder {
         System.out.println(sb);
 
         //setCharAt
-        sb.setCharAt(-1, 'n');
+        sb.setCharAt(4, 'n');
         System.out.println(sb);
     }
 }
