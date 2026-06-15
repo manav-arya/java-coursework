@@ -24,5 +24,6 @@ public class BitManupilations {
         }
 
         //update bit ---> reffer to lecture
+        
     }
 }
